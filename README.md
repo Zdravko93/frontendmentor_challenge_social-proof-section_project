@@ -51,7 +51,7 @@ Users should be able to:
 
 -I have gained some valuable layout CSS coding experience, making design responsive while paying attention to every single detail to make it look as close to the design as possible.
 -My JavaScript knowledge and experience have slightly improved, by using boolean values to determine if a certain element is beign shown or hidden on the page, and depending on that, certain logic is being executed, and states changed. 
-- I have gained valuable confidence to keep me pushing towards my goals. I want to keep building on that
+- I have gained valuable confidence to keep me pushing towards my goals. I want to keep building on that.
 
 
 ### Continued development
