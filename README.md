@@ -49,14 +49,14 @@ Users should be able to:
 
 ### What I learned
 
--I have gained some valuable layout CSS coding experience, making design responsive while paying attention to every single detail to make it look as close to the design as possible.
--My JavaScript knowledge and experience have slightly improved, by using boolean values to determine if a certain element is being shown or hidden on the page, and depending on that, certain logic is being executed, and states changed. 
+- I have gained some valuable layout CSS coding experience, making design responsive while paying attention to every single detail to make it look as close to the design as possible.
+- My JavaScript knowledge and experience have slightly improved, by using boolean values to determine if a certain element is beign shown or hidden on the page, and depending on that, certain logic is being executed, and states changed. 
 - I have gained valuable confidence to keep me pushing towards my goals. I want to keep building on that.
 
 
 ### Continued development
--I plan on becoming skillful in React.js
--I would like to know more about Backend stuff, probably learn some Backend language later on
+- I plan on becoming skillful in React.js
+- I would like to know more about Backend stuff, probably learn some Backend language later on
 
 ### Useful resources
 - No specific resources used for this project, but I can always refer to Kevin Powell and his website and YouTube Channel to hone your CSS skills. 
@@ -66,4 +66,4 @@ Max is a top quality teacher
 
 ## Author
 - Frontend Mentor - [Zdravko](https://www.frontendmentor.io/profile/Zdravko93)
--GitHub - [Zdravko93](https://github.com/Zdravko93)
+- GitHub - [Zdravko93](https://github.com/Zdravko93)
