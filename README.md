@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Zdravko93/frontendmentor_challenge_social-proof-section_project)
-- Live Site URL: [Add live site URL here](https://zdravko93.github.io/frontendmentor_challenge_social-proof-section_project/)
+- Solution URL: https://github.com/Zdravko93/frontendmentor_challenge_social-proof-section_project
+- Live Site URL: https://zdravko93.github.io/frontendmentor_challenge_social-proof-section_project/
 
 
 ## My process
